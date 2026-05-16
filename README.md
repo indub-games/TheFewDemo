@@ -1,5 +1,7 @@
 > Fly the fighters, gun the bombers, and crew the warships of WW2 in a combined-arms combat game built for players, not whales. No grind walls, no premium currency, no paywalled aircraft — one fair price, every theater, every vehicle.
 
+<img width="1834" height="858" alt="E2CCADB7-3EF9-468B-8981-456DDD628850" src="https://github.com/user-attachments/assets/a1ad494e-02e8-41c4-aa3c-c2f3006323ad" />
+
 ---
 
 ## About This Game
